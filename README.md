@@ -1,3 +1,9 @@
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://t.me/neighbor" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="neighbor" /></a> 
+    <a href="mailto:dropweb.post@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/write%20to-email-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="neighbor" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -39,3 +45,5 @@
             width="40" height="40" />
     </a>
 </p>
+
+<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=neighborstan&show_icons=true alt=neighborstan />  </p>
