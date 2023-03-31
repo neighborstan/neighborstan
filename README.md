@@ -1,7 +1,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/neighbor" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="neighbor" /></a> 
-    <a href="mailto:dropweb.post@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/write%20to-email-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="neighbor" /></a>
+    <a href="mailto:dropweb.post@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/email-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="neighbor" /></a>
+    <a href="https://www.linkedin.com/in/kblsv" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="neighbor" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
