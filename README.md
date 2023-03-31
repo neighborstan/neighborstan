@@ -47,4 +47,6 @@
     </a>
 </p>
 
-<p align="left"> <img src=https://github-readme-stats-8a53.vercel.app/api?username=neighborstan&show_icons=true alt=neighborstan />  </p>
+<p align="left"> 
+    <img align="center" height="180px" src=https://github-readme-stats-8a53.vercel.app/api?username=neighborstan&show_icons=true alt=neighborstan /> 
+    <img align="center" height="180px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=neighborstan&layout=compact&&show_icons=true alt=neighborstan />  </p>
