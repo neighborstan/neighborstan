@@ -1,28 +1,35 @@
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/neighbor" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="neighbor" /></a> 
-    <a href="mailto:dropweb.post@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/email-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="neighbor" /></a>
-    <a href="https://www.linkedin.com/in/kblsv" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="neighbor" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="margin-right: 10px;"/>
-</p>
+  <!-- 🔹 Социальные сети (теперь без подчеркиваний и лишнего) -->
+  <p style="display: flex; justify-content: center; gap: 15px; align-items: center;">
+      <span onclick="window.open('https://t.me/neighbor', '_blank')" style="cursor: pointer;">
+        <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="40" height="40" alt="Telegram">
+      </span>
+      <span onclick="window.open('mailto:dropweb.post@gmail.com', '_blank')" style="cursor: pointer;">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email">
+      </span>
+      <span onclick="window.open('https://www.linkedin.com/in/kblsv', '_blank')" style="cursor: pointer;">
+        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn">
+      </span>
+    </p>
 
-<!-- <p align="left"> 
-    <img align="center" height="180px" src=https://github-readme-stats-8a53.vercel.app/api?username=neighborstan&show_icons=true alt=neighborstan /> 
-    <img align="center" height="180px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=neighborstan&layout=compact&&show_icons=true alt=neighborstan />  </p> -->
+
+
+  <!-- 🔹 Технологии (идеально выровненные) -->
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+    <img src="https://cdn.simpleicons.org/spring/6DB33F" width="40" height="40" alt="Spring"/>
+    <img src="https://cdn.simpleicons.org/postgresql/336791" width="40" height="40" alt="PostgreSQL"/>
+    <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" alt="MongoDB"/>
+    <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker"/>
+    <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git"/>
+    <img src="https://cdn.simpleicons.org/linux/FCC624" width="40" height="40" alt="Linux"/>
+  </p>
+
+  <!-- 🔹 Минималистичная статистика (по желанию) -->
+  <p>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=neighborstan&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=333333&icon_color=007ec6" alt="Stats"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neighborstan&layout=compact&hide_border=true&bg_color=00000000&text_color=333333" alt="Languages"/>
+  </p>
+
+</div>
