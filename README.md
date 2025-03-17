@@ -1,21 +1,29 @@
 <div align="center">
 
-  <!-- 🔹 Социальные сети (теперь без подчеркиваний и лишнего) -->
-  <p style="display: flex; justify-content: center; gap: 15px; align-items: center;">
-      <span onclick="window.open('https://t.me/neighbor', '_blank')" style="cursor: pointer;">
-        <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="40" height="40" alt="Telegram">
-      </span>
-      <span onclick="window.open('mailto:dropweb.post@gmail.com', '_blank')" style="cursor: pointer;">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email">
-      </span>
-      <span onclick="window.open('https://www.linkedin.com/in/kblsv', '_blank')" style="cursor: pointer;">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn">
-      </span>
-    </p>
+  <!-- 🔹 Социальные сети, почта -->
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://t.me/neighbor" target="_blank">
+          <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="40" height="40" alt="Telegram" style="border: none;">
+        </a>
+      </td>
+      <td>
+        <a href="mailto:dropweb.post@gmail.com" target="_blank">
+          <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email" style="border: none;">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/kblsv" target="_blank">
+          <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn" style="border: none;">
+        </a>
+      </td>
+    </tr>
+  </table>
 
 
 
-  <!-- 🔹 Технологии (идеально выровненные) -->
+  <!-- 🔹 Технологии -->
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
     <img src="https://cdn.simpleicons.org/spring/6DB33F" width="40" height="40" alt="Spring"/>
