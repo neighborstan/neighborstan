@@ -14,9 +14,10 @@
     <img src="https://cdn.simpleicons.org/spring/6DB33F" width="40" height="40" alt="Spring"/>
     <img src="https://cdn.simpleicons.org/postgresql/336791" width="40" height="40" alt="PostgreSQL"/>
     <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" alt="MongoDB"/>
+    <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="40" height="40" alt="Kafka"/>
     <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker"/>
     <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git"/>
-    <img src="https://cdn.simpleicons.org/linux/FCC624" width="40" height="40" alt="Linux"/>
+    <img src="https://cdn.simpleicons.org/linux/black" width="40" height="40" alt="Linux"/>
   </p>
 
   <!-- 🔹 Минималистичная статистика (по желанию) -->
