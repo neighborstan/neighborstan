@@ -5,10 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/Contact-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kblsv)
 
 
-
-
-
-
   <!-- 🔹 Технологии -->
 <p align="center">
   <!-- Языки и фреймворки -->
@@ -40,12 +36,16 @@
 </p>
 
 
-
-
 <!-- 🔹 Минималистичная статистика (по желанию) -->
 <p>
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=neighborstan&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=333333&icon_color=007ec6" alt="Stats"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neighborstan&layout=compact&hide_border=true&bg_color=00000000&text_color=333333" alt="Languages"/>
 </p>
+
+</div>
+
+<div align="center">
+
+  [**Event Mosaic**](https://github.com/EventMosaicProject) ::: Микросервисная система для сбора, анализа, обработки и отображения данных о событиях (...in progress)
 
 </div>
