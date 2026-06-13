@@ -9,7 +9,6 @@ Building reliable backend systems with a focus on clarity, scalability, and perf
   <kbd>Docker</kbd> <kbd>Kubernetes</kbd> <kbd>Git</kbd>
 </p>
 
-[Event Mosaic](https://github.com/EventMosaicProject)
 
 [![Telegram](https://img.shields.io/badge/Contact-Telegram-2CA5E0?logoColor=white)](https://t.me/neighbor)
 [![LinkedIn](https://img.shields.io/badge/Contact-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kblsv)  
